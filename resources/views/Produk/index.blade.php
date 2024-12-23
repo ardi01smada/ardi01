@@ -3,8 +3,6 @@
 Author: Keenthemes
 Product Name: Metronic
 Product Version: 8.2.0
-Purchase: https://1.envato.market/EA4JP
-Website: http://www.keenthemes.com
 -->
 <html lang="en">
 	<!--begin::Head-->
