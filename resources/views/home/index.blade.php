@@ -1880,7 +1880,7 @@ Product Version: 8.2.0
 									<!--begin::Menu-->
 									<div class="menu menu-column menu-rounded menu-sub-indention fw-semibold fs-6" id="#kt_app_sidebar_menu" data-kt-menu="true" data-kt-menu-expand="false">
 										<!--begin:Menu item-->
-										<div data-kt-menu-trigger="click" class="menu-item here show menu-accordion">
+										<div data-kt-menu-trigger="click" class="menu-item menu-accordion">
 											<!--begin:Menu link-->
 											<span class="menu-link">
 												<span class="menu-icon">
@@ -1970,23 +1970,7 @@ Product Version: 8.2.0
 														<!--end:Menu link-->
 													</div>
 													<!--end:Menu item-->													
-												</div>
-												<div class="menu-item">
-													<div class="menu-content">
-														<a class="btn btn-flex btn-color-primary d-flex flex-stack fs-base p-0 ms-2 mb-2 toggle collapsible collapsed" data-bs-toggle="collapse" href="#kt_app_sidebar_menu_dashboards_collapse" data-kt-toggle-text="Show Less">
-															<span data-kt-toggle-text-target="true">Show More</span>
-															<i class="ki-duotone ki-minus-square toggle-on fs-2 me-0">
-																<span class="path1"></span>
-																<span class="path2"></span>
-															</i>
-															<i class="ki-duotone ki-plus-square toggle-off fs-2 me-0">
-																<span class="path1"></span>
-																<span class="path2"></span>
-																<span class="path3"></span>
-															</i>
-														</a>													
-													</div>
-												</div>
+												</div>												
 											</div>
 											<!--end:Menu sub-->
 										</div>
@@ -2015,7 +1999,7 @@ Product Version: 8.2.0
 														<span class="menu-bullet">
 															<span class="bullet bullet-dot"></span>
 														</span>
-														<span class="menu-title">Overview</span>
+														<span class="menu-title">Produk</span>
 													</a>
 													<!--end:Menu link-->
 												</div>
